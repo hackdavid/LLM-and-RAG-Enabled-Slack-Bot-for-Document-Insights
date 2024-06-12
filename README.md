@@ -43,26 +43,10 @@ A YAML configuration file is used to provide necessary values. Ensure to update 
 To run the script, execute the `main.py` file:
 
 ```sh
-python main.py
+python main.py --config_file config.yaml
 ```
 
 ## Video
 A detailed walkthrough of the project is provided in the attached video. (Note: The video is stored locally and not available on YouTube).
-
-## Additional Sections (Optional)
-### Testing
-Detailed instructions and examples for testing the bot and its various components.
-
-### Troubleshooting
-Common issues and their solutions to help users resolve potential problems.
-
-### Contributing
-Guidelines for contributing to the project, including code style, branch management, and submission of pull requests.
-
-### License
-Information about the project's license.
-
-### Acknowledgements
-Recognition of individuals and resources that contributed to the development of the project.
 
 By following this README, users can set up and utilize the **LLM-and-RAG-Enabled-Slack-Bot-for-Document-Insights** efficiently, leveraging advanced AI capabilities to extract valuable insights from documents seamlessly.
