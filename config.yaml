@@ -1,0 +1,11 @@
+pdf_path: "handbook.pdf"
+questions:
+  - "What is the name of the company?"
+  - "Who is the CEO of the company?"
+  - "What is their vacation policy?"
+  - "What is the termination policy?"
+slack_channel: ""
+slack_token: ""
+openai_api_key: ""
+text_method : 'rag' # choice can be ['text','page','chunk','rag']
+
