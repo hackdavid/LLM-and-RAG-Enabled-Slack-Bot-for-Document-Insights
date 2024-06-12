@@ -46,7 +46,5 @@ To run the script, execute the `main.py` file:
 python main.py --config_file config.yaml
 ```
 
-## Video
-A detailed walkthrough of the project is provided in the attached video. (Note: The video is stored locally and not available on YouTube).
 
 By following this README, users can set up and utilize the **LLM-and-RAG-Enabled-Slack-Bot-for-Document-Insights** efficiently, leveraging advanced AI capabilities to extract valuable insights from documents seamlessly.
